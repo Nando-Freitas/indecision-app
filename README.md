@@ -1,2 +1,2 @@
-# indecision-app
+# Indecision-app
 This is a react app
